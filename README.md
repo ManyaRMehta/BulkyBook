@@ -47,6 +47,20 @@ Developed as part of my internship, the project closely follows a Udemy course o
 | Docker + Azure Data Studio | Local SQL (Mac setup) |
 
 ---
+##  Key Concepts & Implementations
+
+- **N-Tier Architecture** with Repository Pattern and Unit of Work
+- **CRUD operations** with server-side & client-side validation
+- **Role-based Authorization** using ASP.NET Identity
+- **ViewBag / ViewData / TempData** usage
+- **Scaffolded Identity UI** (Razor Class Library)
+- **View Components** in .NET Core
+- **Stripe integration** for payment & refund handling
+- **Session Management** in .NET Core
+- **SendGrid** for transactional emails
+- **Database Seeding** with `DbInitializer`
+- **API Controllers** interacting with Razor Pages
+- **Rich Text Editor**, **SweetAlert**, **Toastr**, **DataTables**
 
 
 

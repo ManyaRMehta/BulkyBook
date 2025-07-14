@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=your_server;Database=your_db;"
+
+  },
+  "Stripe": {
+    "SecretKey": "sk_test_your_key",
+    "PublishableKey":"pk_test_your_key"
+  }
+}

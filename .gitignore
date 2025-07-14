@@ -1,0 +1,16 @@
+# Ignore user secrets and sensitive configs
+**/appsettings.json
+**/appsettings.*.json
+
+# Build output
+bin/
+obj/
+
+# Visual Studio / VS Code settings
+*.user
+*.suo
+.vscode/
+*.db
+
+# Other environment files
+.env
